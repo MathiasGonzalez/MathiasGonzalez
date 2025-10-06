@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mathias Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-<p align="left"> <a href="https://github.com/mathiasgonzalez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathiasgonzalez" alt="mathiasgonzalez" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
